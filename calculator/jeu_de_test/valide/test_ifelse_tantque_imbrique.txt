@@ -1,0 +1,17 @@
+lire(y);
+
+if y < 6 then
+    if y > 4 then
+        ecrire(y);
+    else
+        tantque y < 4 faire
+            y = y + 0.3;
+        fait;
+        ecrire(y);
+    fi;
+else
+    tantque y > 6 faire
+        y = y - 0.2;
+    fait;
+    ecrire(y);
+fi;

@@ -1,0 +1,4 @@
+lire(x+2);
+
+ecrire("Hello World");
+ecrire(y);

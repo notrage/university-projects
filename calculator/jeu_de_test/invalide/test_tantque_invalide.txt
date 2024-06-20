@@ -1,0 +1,9 @@
+x = 3;
+y = 5;
+
+tantque x<12.7 
+    x = x + 0.8;
+fait;
+
+tantque y>2 then
+    y = y - 0.3;

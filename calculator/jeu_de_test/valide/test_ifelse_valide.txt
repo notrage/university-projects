@@ -1,0 +1,10 @@
+lire(x);
+y = 3;
+
+if x >= 2 then
+    x = x+2;
+    ecrire(x);
+else
+    x = x- 2;
+    ecrire(y);
+fi;

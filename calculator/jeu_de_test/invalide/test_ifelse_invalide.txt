@@ -1,0 +1,17 @@
+y = 3;
+
+if x == 2 then
+    x = x+2;
+else
+    x = x- 2;
+fi;
+
+if y > 2.5 then
+    z = 8;
+    ecrire(z);
+fi;
+
+if y < 12 then
+    lire(a);
+else
+    lire(b);

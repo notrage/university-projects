@@ -1,0 +1,7 @@
+x = 3;
+
+tantque x<12.7 faire
+    x = x + 0.8;
+fait;
+
+ecrire(x);

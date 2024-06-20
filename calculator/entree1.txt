@@ -1,0 +1,9 @@
+x = -1;
+y = 0;
+z = -3;
+
+if x == -1 et y == 0 et z == -3 then
+    ecrire(x);
+else
+    ecrire(y);
+fi;

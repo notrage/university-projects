@@ -1,0 +1,16 @@
+lire(x);
+y = 9;
+a = 3;
+
+if x > 3 et x <= 5 then
+    ecrire(x);
+else
+    ecrire(y);
+fi;
+
+tantque y < 4 ou y > 6 faire
+    y = y - 0.3;
+    ecrire(a);
+fait;
+
+ecrire(y);
